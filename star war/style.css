@@ -1,0 +1,75 @@
+ body{
+background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+
+ }
+ .colorrojo{
+
+font-size: STJEDISE;
+    background-color: rgb(236, 38, 38);
+}
+
+
+.colorazul{
+
+background-color: rgb(87, 87, 198);
+}
+#aumento {
+ font-size: 60px;
+
+}
+
+#italica{
+font-size: 40px;
+    font-style: italica;
+}
+
+.borde{
+border-style: dotted ;
+letter-spacing: 7px;
+background-color: rgb(194, 24, 24);
+}
+.bordeazul {
+    border-style: dotted ;
+    letter-spacing: 7px;
+    background-color: rgb(36, 36, 119);
+} 
+
+.apoyocolorazul{
+  text-align: center;
+background-color: rgb(134, 134, 240);
+}
+
+.apoyocolorrojo
+{
+text-align: center;
+background-color: rgb(198, 14, 14);
+
+}
+.navesrojo{
+text-transform: capitalize;
+background-color: rgb(243, 28, 28);
+font-size: 60px;
+}
+.naveazul{
+    text-transform: capitalize;
+background-color: rgb(59, 59, 239);
+font-size: 45pxpx;
+    
+}
+
+.droidesborde{
+    border-style: dotted ;
+    letter-spacing: 7px;
+    background-color: rgb(42, 42, 168);
+text-align: center;
+
+}
+.centro
+img{
+    display: block;
+    margin: 0px auto;
+   }
+ h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: aquamarine;
+text-align: center;}
